@@ -3,3 +3,7 @@ The following data is intended for advancing financial sentiment analysis resear
 
 Citations
 Malo, Pekka, et al. "Good debt or bad debt: Detecting semantic orientations in economic texts." Journal of the Association for Information Science and Technology 65.4 (2014): 782-796.
+
+from datasets import load_dataset
+
+ds = load_dataset("LLukas22/fiqa")
