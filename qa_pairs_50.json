@@ -1,0 +1,198 @@
+[
+    {
+        "input": "What are the details in the Introduction section?",
+        "output": "DBS Personal Loan offers an interest rate from 2.68% p.a. (EIR 5.43% p.a.) with up to 10 times your monthly salary for eligible individuals."
+    },
+    {
+        "input": "What are the details in the Features & Benefits section?",
+        "output": "Enjoy fixed interest rates, instant cash disbursement, and repayment tenures ranging from 6 months to 5 years."
+    },
+    {
+        "input": "What are the details in the Eligibility section?",
+        "output": "Applicants must be Singapore Citizens or Permanent Residents aged 21\u201370 with a minimum annual income of S$20,000."
+    },
+    {
+        "input": "What are the details in the Application Process section?",
+        "output": "Log in with your DBS account, choose your desired loan amount and tenure, and submit the application online."
+    },
+    {
+        "input": "What are the details in the Repayment section?",
+        "output": "Monthly repayments can be made via GIRO with a minimum tenure of 6 months and a maximum tenure of 5 years."
+    },
+    {
+        "input": "What are the details in the Promotions section?",
+        "output": "Apply now with promo code 'POSBPL' to enjoy 2% unlimited cashback on loans of S$5,000 or more with a tenure of 36 months."
+    },
+    {
+        "input": "What are the details in the Interest Rates section?",
+        "output": "DBS Personal Loan offers an applied interest rate (AIR) from 2.68% p.a. with an effective interest rate (EIR) of 5.43% p.a."
+    },
+    {
+        "input": "What are the details in the Loan Amount section?",
+        "output": "Borrow up to 10 times your monthly salary, subject to your income and credit profile."
+    },
+    {
+        "input": "What are the details in the Documents Required section?",
+        "output": "You need to provide NRIC, Income Tax Notice of Assessment, and salary slips. Existing customers can apply without submitting documents."
+    },
+    {
+        "input": "What are the details in the Approval Time section?",
+        "output": "Instant approval is available for existing DBS/POSB customers, with funds disbursed directly into your account."
+    },
+    {
+        "input": "What are the details in the Calculator Tool section?",
+        "output": "Use the DBS Personal Loan calculator to estimate your monthly repayments before applying."
+    },
+    {
+        "input": "What are the details in the Fees section?",
+        "output": "A processing fee of 1% applies to all loans, which is factored into the EIR calculation."
+    },
+    {
+        "input": "What are the details in the Minimum Loan Amount section?",
+        "output": "The minimum loan amount is S$5000 for a tenure of at least 6 months."
+    },
+    {
+        "input": "What are the details in the Maximum Loan Tenure section?",
+        "output": "The maximum loan tenure is 5 years, providing flexibility for repayment."
+    },
+    {
+        "input": "What are the details in the Cashback Promotion section?",
+        "output": "Earn 2% unlimited cashback on loan amounts of S$5,000 or more when applied via DBS online."
+    },
+    {
+        "input": "What are the details in the Salary Credit Requirements section?",
+        "output": "Customers crediting their salary into a DBS/POSB account may enjoy faster loan approval."
+    },
+    {
+        "input": "What are the details in the GIRO Payments section?",
+        "output": "Monthly repayments are set up via GIRO for convenience and punctuality."
+    },
+    {
+        "input": "What are the details in the Loan Disbursement section?",
+        "output": "Loan amounts are credited directly to your DBS/POSB deposit account upon approval."
+    },
+    {
+        "input": "What are the details in the Renewal Options section?",
+        "output": "Customers can renew their loan by submitting a new application upon completion of their current loan."
+    },
+    {
+        "input": "What are the details in the Customer Support section?",
+        "output": "DBS offers 24/7 customer support through its helpline and online support portal."
+    },
+    {
+        "input": "What are the details in the Balance Transfer section?",
+        "output": "Compare DBS Balance Transfer with the personal loan for short-term financial needs."
+    },
+    {
+        "input": "What are the details in the Credit Profile section?",
+        "output": "Loan eligibility and interest rates are based on the applicant's personal credit and income profile."
+    },
+    {
+        "input": "What are the details in the Partial Payments section?",
+        "output": "DBS allows partial repayments, but terms and conditions apply to early repayments."
+    },
+    {
+        "input": "What are the details in the Tenure Flexibility section?",
+        "output": "Loan tenures can be chosen between 6 months and 5 years to suit your repayment ability."
+    },
+    {
+        "input": "What are the details in the Late Payment Charges section?",
+        "output": "A fee of S$50 applies for late payments, in addition to the applicable interest."
+    },
+    {
+        "input": "What are the details in the Age Limit section?",
+        "output": "The loan is available for applicants aged between 21 and 70 years old."
+    },
+    {
+        "input": "What are the details in the Foreign Applicants section?",
+        "output": "Foreigners with existing DBS/POSB accounts can also apply if they meet the criteria."
+    },
+    {
+        "input": "What are the details in the Income Documentation section?",
+        "output": "Applicants can submit income documents via MyInfo using their Singpass."
+    },
+    {
+        "input": "What are the details in the Comparison with Renovation Loan section?",
+        "output": "DBS offers a renovation loan starting from 5.68% p.a., which differs from the personal loan in purpose and terms."
+    },
+    {
+        "input": "What are the details in the Interest Calculation section?",
+        "output": "Interest is calculated on a flat-rate basis using the AIR for the loan tenure."
+    },
+    {
+        "input": "What are the details in the Free Credit Report section?",
+        "output": "Eligible applicants can receive a free credit report within 30 days of loan approval."
+    },
+    {
+        "input": "What are the details in the Online Application section?",
+        "output": "DBS encourages applying online for faster processing and instant approval."
+    },
+    {
+        "input": "What are the details in the Waiver on Processing Fee section?",
+        "output": "Occasional promotions may include a waiver on the 1% processing fee."
+    },
+    {
+        "input": "What are the details in the Joint Applicants section?",
+        "output": "Joint applicants are not allowed; each applicant must apply individually."
+    },
+    {
+        "input": "What are the details in the Application Rejection section?",
+        "output": "Applications may be rejected if income or credit criteria are not met."
+    },
+    {
+        "input": "What are the details in the Interest Savings section?",
+        "output": "Choosing a shorter tenure reduces overall interest paid."
+    },
+    {
+        "input": "What are the details in the Loan Top-Up section?",
+        "output": "Existing customers can top up their loan by applying for an additional amount."
+    },
+    {
+        "input": "What are the details in the Pre-Approval Offers section?",
+        "output": "Pre-approved loans are available for select customers based on their account history."
+    },
+    {
+        "input": "What are the details in the Promotional Codes section?",
+        "output": "Use promo codes to avail exclusive cashback or interest rate discounts."
+    },
+    {
+        "input": "What are the details in the Loan EMI Calculator section?",
+        "output": "The calculator helps you determine the equated monthly installment for your loan."
+    },
+    {
+        "input": "What are the details in the Processing Time section?",
+        "output": "Processing times may vary depending on the completeness of the submitted documents."
+    },
+    {
+        "input": "What are the details in the Loan Agreement section?",
+        "output": "The loan agreement specifies all terms and conditions, including repayment details."
+    },
+    {
+        "input": "What are the details in the Flexibility in Amount section?",
+        "output": "Borrow amounts can be adjusted during the application process based on approval limits."
+    },
+    {
+        "input": "What are the details in the MyInfo Integration section?",
+        "output": "Using MyInfo with Singpass simplifies the application process by auto-filling details."
+    },
+    {
+        "input": "What are the details in the Loan Cancellation section?",
+        "output": "Loans can be canceled before disbursement, subject to applicable fees."
+    },
+    {
+        "input": "What are the details in the Cross-Selling Offers section?",
+        "output": "DBS often provides cross-selling offers for credit cards and savings accounts during loan applications."
+    },
+    {
+        "input": "What are the details in the Customer Eligibility section?",
+        "output": "Eligibility is determined based on citizenship, age, income, and credit profile."
+    },
+    {
+        "input": "What are the details in the Funds Usage section?",
+        "output": "Loan funds can be used for personal expenses, but usage for illegal activities is prohibited."
+    },
+    {
+        "input": "What are the details in the Mobile Banking section?",
+        "output": "Customers can track and manage their loans through the DBS mobile banking app."
+    }
+]
